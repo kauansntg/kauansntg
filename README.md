@@ -1,6 +1,6 @@
 ### 
 HI!! I`m Kauan, 
-  #wellcome to my Github!!
+  wellcome to my Github!!
   
  Ferramentas e Tecnologias
  

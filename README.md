@@ -1,16 +1,16 @@
-### # Kauan santiago
-## Hello, Guys!!
+### Kauan santiago
+  Hello, Guys!!
 <!--
 **kauansntg/kauansntg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Ferramentas e Tecnologias
+ Ferramentas e Tecnologias
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
-## Estou aprendendo
+  Estou aprendendo
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-## Contatos:
+ Contatos:
 
 <div>
 <a href="https://instagram.com/kauansntg" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

@@ -2,16 +2,13 @@
 Kauan santiago
   Hello, Guys!!
 
-**kauansntg/kauansntg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
  Ferramentas e Tecnologias
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
   Estou aprendendo
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
- 
+     <i class="devicon-javascript-plain colored"></i>
+        
  Contatos:
 
 <div>

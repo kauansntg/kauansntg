@@ -1,5 +1,5 @@
 ### 
-HI!! I`m Kauan, 
+Hey! I`m Kauan, 
   wellcome to my Github!!
   
  Ferramentas e Tecnologias

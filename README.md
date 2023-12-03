@@ -1,6 +1,5 @@
 ### 
-Hey! I`m Kauan, 
-  welcome to my Github!!
+Oi oi eu sou o Kauan, bem-vindos ao meu Github
 
   <div>
 <a href="https://github.com/kauansntg">

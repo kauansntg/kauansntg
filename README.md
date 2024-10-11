@@ -1,5 +1,5 @@
 ### 
-Oioi eu sou o Kauan, bem-vindos ao meu Github :)
+Oi eu sou o Kauan, aqui tem um pouco sobre o que eu faço :)
 
   <div>
 <a href="https://github.com/kauansntg">
